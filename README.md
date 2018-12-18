@@ -6,7 +6,7 @@ The player has a 2 card page - with a character card and a home plant card, each
 
 **SWAPI API**
 
-The info is being collected from [https://swapi.co], first the character list and once the home planet url is available another call is sent to retrieve the home planet data
+The info is retrieved from [SWAPI](https://swapi.co), first the character data and once the home planet url is available another call is sent to retrieve the home planet data
 
 
 Roey Wegerhoff
